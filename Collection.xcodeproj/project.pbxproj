@@ -24,6 +24,7 @@
 		2252C4D11B16F342000A1219 /* meishi2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2252C4CD1B16F342000A1219 /* meishi2.jpg */; };
 		2252C4D21B16F342000A1219 /* meishi3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2252C4CE1B16F342000A1219 /* meishi3.jpg */; };
 		2252C4D31B16F342000A1219 /* tom.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2252C4CF1B16F342000A1219 /* tom.jpg */; };
+		22BC01951B1735B00046E885 /* LayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22BC01941B1735B00046E885 /* LayerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,7 @@
 		2252C4CD1B16F342000A1219 /* meishi2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meishi2.jpg; sourceTree = "<group>"; };
 		2252C4CE1B16F342000A1219 /* meishi3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meishi3.jpg; sourceTree = "<group>"; };
 		2252C4CF1B16F342000A1219 /* tom.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tom.jpg; sourceTree = "<group>"; };
+		22BC01941B1735B00046E885 /* LayerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LayerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				22348D2B1B16A4230051EF80 /* LaunchScreen.xib */,
 				22348D201B16A4220051EF80 /* Supporting Files */,
 				22348D4B1B16C9330051EF80 /* ViewController.swift */,
+				22BC01941B1735B00046E885 /* LayerViewController.swift */,
 			);
 			path = Collection;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22BC01951B1735B00046E885 /* LayerViewController.swift in Sources */,
 				22348D4A1B16C7020051EF80 /* CircleView.swift in Sources */,
 				2252C4CB1B16F1B6000A1219 /* CardView.swift in Sources */,
 				22348D251B16A4230051EF80 /* RoundedCornersViewController.swift in Sources */,
